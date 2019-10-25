@@ -1,0 +1,27 @@
+{
+	"user": "9t/Os5xYInKYqNCiiIObAVzntHov0+UE28aWeMAT1l5QZXDGI+e2eeMOOX7REPcPUra20MKk5kOpr1Zcrf8S1w==",
+	"password": "LHzNE8DCRLRS36lo41oU7hkmWvMuOprvLhBFIl+c55nMeeFf7xNA5xQrSDHc6SGn",
+	"mode": "gk8ulR0gwUSOXeF5af5+OkuYg6gJak8/YI8gcTQBV26c/yTLNxbdCNu6UY6qLwEl",
+	"folder": "vi5P+dZjkJ55IOmN7V0lK6UNG8o9/XVSxyviJQX4/TKi0mgTIbrxB8ww0fHrJVyIvL3ndKCtnGoQfy9V4SYikg==",
+	"email_host": "FWIcyRgoQxlGPbaaDrG24VV5y3edCqtlSh/DqTSxM+/lwyYBlBogMPZmaQ/lzd8dl4YgIlYxEVgioXAAp9Xo5Q==",
+	"email_port": "bNbtWCFQOhfMscGao0zrH1TvFHdRNPgHVT2amhLYZwOd6WgjzPbhmyrnoGzVK+O/",
+	"email_ssl": "Bxrvi25xlwkRzDqYHWOhE386zrH3345PmfVE50cOgr0uHOvAoFLAvYjRm/HRdE+Y",
+	"email_account": "/wi9OfV3qKVOsTakSrK+QFpJzTbGeWvtSiarZhWXMqPRR9u/QluPgYcLeUKiHPQiDktTm71rKWGJpz+to21gmg==",
+	"email_password": "ShStw+jQW/0j9I2BWp//BMTHyw52FV6Aq0diiej4u+uq0tfTK844aCFStRATf2bi/lmqknxMK0IGxcXC++KyKg==",
+	"email_sender": "SJ3AFdndiCAUyrxpa8jH8l5Y+39FdPFmr6iinb+iwIXNdvMgSQaqd21NgZeoYWJc",
+	"email_subject": "TdeQ5gWwAQhRWf3/2NCSfmJd6KcMot+oD8ISjiZMJicpLb75gX/rB+vdpsRH+cAM",
+	"url_endpoint": "/PXjBDLfYI+jmBlzp8hI1ozCszmKbnl2YICLeSWtfp0N/AHhqZXNZThSPP08bX58jg1QWIMzZd6ruhfS+HZVpaNSuJeQG3qXq4g/HOuRScU=",
+	"attachment_type": "DYjRAaXnH5Owko6QJkKNUY3OylNCR5mEQXZ37BSaGxCXq4QUSFMsXh15O9ymKfAQ",
+	"templates": [
+		{
+			"name": "PYA26VvZYN7SfLLX3hfNMiwqrFwDOsydulJqPxtZ1xhq5F4E+9nx6GSSMgkJV6V9",
+			"type": "3MltgUtx5IU/yoTOsrJaHbn9hXlp9YGNzzFu3Qt+jY3IASfrIG/pUrKVG99eziZS",
+			"html": "EQONVnoJ/PzoO6TdcwIssOCwI1Zz+kkVRh+sTNIYa0E2+DScTQljCJnRUBkwv+xi2J1SW0qDDq64GaAq6xDcMngF/3T4siyatPbcAmzJzolHxuhLhA22uqj8FA7/KPFXAM154M6WqE0cggZpNNFHput27me602ft1PQuBikXMEYiSyjykCtK9uXkuU1wcbJuw82ouarRM2Etn/a0DeoWom+PuNh1eMy7r+VuUwKQJlI="
+		},
+		{
+			"name": "A6FKUsug83+ZlP2KlEKiBySejgD92fIw3YkWDCSxyHTRug5uks0D/UDq2rEAAiKk",
+			"type": "dBzQBBsU8cffl2XIIA3F3SvCHaoqTkv7doCrIXGnJo+y4Mir2yOp7xA31er35EwG",
+			"html": "Nk69oMBNtsY0KLz4WhKc1u6aST4rOPDr10HTnMo7/Otpubu87/A1kF9+/Ci/C9DTEokTpfsEG2wj9xb63IJ023ECzA6jtob4fwLo9/GTwBuhXnjdKZ4v0ISkOfPiAZOQgF+k4j7kMrhRof5v0iQElspdUBVgJ+5SQ+OxvG8iCtwq+lLQ4VYaxymBrKp8xjahqZdnVxdcs9p7RI+G1vN65aqxy3/sJ52AQbVeOtX0xGs="
+		}
+	]
+}
